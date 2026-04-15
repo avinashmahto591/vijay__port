@@ -1,7 +1,7 @@
 import { FaFileDownload } from "react-icons/fa";
 
 export default function Resume() {
-  const resumeLink = "https://drive.google.com/file/d/1CagYlSCh_PAAHWbPLnmN0SljrwPyJRvU/view?usp=sharing";
+  const resumeLink ="https://drive.google.com/file/d/1B_29c95ZjQyPSbdoGq62_nyxLTEidzF0/view?usp=drivesdk";
 
   return (
     // Changed bg-white to bg-transparent or bg-slate-950 to match App.js
