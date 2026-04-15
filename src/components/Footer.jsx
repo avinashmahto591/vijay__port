@@ -19,7 +19,7 @@ function Footer() {
               <FaLinkedinIn size={24} />
             </div>
             <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col items-center">
-              <p className="text-sm">Supportive Partner ❤️ Avinash</p>
+              <p className="text-sm">Supportive Partner ❤️ vijay</p>
             </div>
           </div>
         </div>
