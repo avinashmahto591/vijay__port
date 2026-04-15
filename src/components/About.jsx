@@ -7,7 +7,8 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-         Hi, I'm Avinash Kumar, a MERN Stack Developer and Data Analyst passionate about building scalable web applications and uncovering insights from complex datasets. I specialize in transforming ideas into clean, functional code while also leveraging data to drive smarter decisions. From database management and polished user interfaces to data visualization and analytical problem-solving, I bridge the gap between development and analysis to deliver impactful solutions.
+         hey, i am vijay kumar mandal. A passionate and hardworking computer science Engineering student with good knowledge of software development and programming skills. Seeking an opportunity to apply my Knowledge , gain practice experience ,and contribute to a growing organization.
+        </p>
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
