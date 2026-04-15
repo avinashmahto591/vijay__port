@@ -9,7 +9,6 @@ function About() {
         <p>
          hey, i am vijay kumar mandal. A passionate and hardworking computer science Engineering student with good knowledge of software development and programming skills. Seeking an opportunity to apply my Knowledge , gain practice experience ,and contribute to a growing organization.
         </p>
-        </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Education
